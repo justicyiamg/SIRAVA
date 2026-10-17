@@ -1,0 +1,8 @@
+{
+  "name": "Remix SIRAVA - STUDENT ASSESSMENT PLATFORM",
+  "description": "Platform ujian essay interaktif untuk guru dan siswa dengan fitur import Word/PDF otomatis, dukungan tabel/grafik/gambar, rubrik penilaian, koreksi instan berbasis AI, dan rekapitulasi nilai real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
